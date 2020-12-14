@@ -1,6 +1,6 @@
 # E-commerce-CLI
 
-Run queries in the sql files to create structured database and tables for this app.
+Run queries in the .sql files to create structured database and tables for this app.
 
 
 This Command Line Interface based E-commerce app has two flows :
