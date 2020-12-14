@@ -2,6 +2,7 @@
 
 Run queries in the sql files to create structured database and tables for this app.
 
+
 This Command Line Interface based E-commerce app has two flows :
 
 #1 User-flow
@@ -24,3 +25,5 @@ Admin has to go through the authentication process.
 
 
 
+
+Note: In CLI file you have to add your local sql-server credentials to connect.
