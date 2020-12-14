@@ -1,7 +1,7 @@
 import mysql.connector
 global data_fetch, category_id
 global cart_id
-mydb = mysql.connector.connect(host='localhost', user='root', password='password', database='shopgarrage',
+mydb = mysql.connector.connect(host='localhost', user='root', password='#', database='shopgarrage',
                                auth_plugin='mysql_native_password')
 
 mycursor = mydb.cursor(buffered=True)
